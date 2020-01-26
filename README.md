@@ -9,3 +9,5 @@ I have always been intrigued in demonstrating trends and patterns utilizing larg
 
 # Portfolio
 My data visualizations will be added in this section!
+
+[DataViz](/dataviz2.md)
