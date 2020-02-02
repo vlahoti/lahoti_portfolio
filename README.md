@@ -12,7 +12,7 @@ My data visualizations will be added in this section!
 
 [DataViz](/dataviz2.md)
 
-# Critique by Design Assignment
+Critique by Design Assignment
 
 Original Visualization: https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/ytd/12/1880-2019
 
