@@ -44,5 +44,6 @@ When I first saw the data visualization, I had trouble understanding the message
 After initially examining the visualization, I created a wireframe from Balsamiq to sketch out a rough idea of my new version. I then showed two individuals my wireframe to ask about their opinions. They both did not think there was a need to have color in the first place. Indeed, both individuals said that the message of the graph is clear without color—color just adds unnecessary noise. However, both seemed to understand the overarching purpose of the graph—to illustrate changing climate over the years. I then began recreating the visualization using Tableau. 
 The first change I made was converting the bar chart format to a line chart. In doing so, the points appeared clearer and the message of the visualization (that weather is increasing over the years) was still presented effectively. In addition, I removed the color from the graph, as it did not serve any real purpose. Lastly, I decided to not make the area shaded in my new visualization. I felt like adding shading would not supplement the group but would instead add more confusion. My final visualization is presented below (along with the original visualization):
 
-[Wireframe](/Screen Shot 2020-02-01 at 8.48.08 PM.png)
+![Drag Racing](Screen Shot 2020-02-01 at 8.48.08 PM.png)
+
 
