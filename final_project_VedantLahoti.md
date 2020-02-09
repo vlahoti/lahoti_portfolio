@@ -15,6 +15,10 @@ Project Structure (Divided into 4 steps) :
 3) Examine Cost as an additional reason for this difference
 	-Compare highly utilized satellite platforms (DirectTV, Sling) with streaming platforms such as Netflix, Amazon Prime, and Hulu
 
+# Initial Sketches
+
+![Sketches](IMG_8451.JPG)
+
 # The Data:
 
 I will be utilizing four different data sources for this project. The first source of data discusses overall statistics of consumer usage of both streaming and cable/satellite subscription. This data will paint a general picture of the situation. This data describes how many people are subscribed to cable/satellite, to streaming services, and to both. The next data source delves into usage deriving from various age groups. Specifically, this takes into consideration the younger generation, adults, older individuals, and the elderly. I plan to illustrate both of these data sources with pie charts.
@@ -44,3 +48,5 @@ I plan on utilizing Shorthand to present this project. The first stage of this p
 I then plan to use historical data of both platforms to depict the change in user subscription over the years. I chose to use Netflix as my streaming platform and Dish as my cable/satellite platform for this goal. I will illustrate the data (describing the amount of users over the years) using a moving line chart. The tool I will use to accomplish this is Gapminder. This aspect will show that as time changes, how one platform’s user subscription has greatly increased, while the other’s has severely decreased. 
 
 Lastly, I will delve into another large aspect as to why cable/satellite has been failing over the years. Cost is a key factor in differentiating both platforms. I will create a bar chart and compare a few of the streaming companies’ cost with a few of the cable/satellite companies’ costs (I will utilize the most basic package for each of the companies). By displaying these four visualizations in meaningful ways, this data story will describe how the streaming industry has taken over the cable/satellite industry in entertainment.
+
+
