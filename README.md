@@ -11,6 +11,7 @@ I have always been intrigued in demonstrating trends and patterns utilizing larg
 My data visualizations will be added in this section!
 
 [DataViz](/dataviz2.md)
+[Final Project](/final_project_VedantLahoti.md)
 
 Critique by Design Assignment
 
