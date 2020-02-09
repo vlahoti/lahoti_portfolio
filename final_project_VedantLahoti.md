@@ -1,3 +1,4 @@
+[Back](https://vlahoti.github.io/lahoti_portfolio/)
 # High-Level Summary of my project:
 
 My project will take a deep dive into the demise of the cable and satellite industry due to streaming platforms that offer a great deal of value. This analysis will examine the statistics relating to the decline of cable and satellite companies such as Dish Network or DirectTV and describe data relating to the continued progress of streaming companies such as Netflix, Hulu, and Amazon Prime. 
@@ -36,7 +37,7 @@ https://www.statista.com/statistics/497299/dish-network-number-subscribers-usa/
 Costs of both platforms:
 https://www.bankrate.com/personal-finance/smart-money/cost-of-cable-tv-vs-internet-streaming/
 
-Method and Medium:
+# Method and Medium:
 
 I plan on utilizing Shorthand to present this project. The first stage of this project will be to give readers a general picture the situation, in terms of how many people are subscribed to cable, streaming services, or both. I will utilize a bar chart visualization to do this. Next, I will go into the more specific aspects of this subject. I think it makes sense to stratify consumers by age-bracket to illustrate a clearer picture of who actually uses which platform. Therefore, I will depict data coming from two differently aged groups: those who are between the age bracket of 18 to high 20’s and those between the age of 50-65. I chose to describe these two groups because their difference in age is so starkly different and it would help illustrate the lack of similarity in content viewership.
 
