@@ -51,6 +51,7 @@ One of the issues I realized from the feedback was that the order of the visuali
 ![newstoryboard2](newstoryboard2.png)
 ![newstoryboard3](newstoryboard3.png)
 ![newstoryboard4](newstoryboard4.png)
+Source of data: https://www.internetworldstats.com/emarketing.htm
 ![newstoryboard5](newstoryboard5.png)
 
 
