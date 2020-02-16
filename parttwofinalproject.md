@@ -2,9 +2,13 @@
 # Initial Wireframes/Storyboard for User Feedback
 
 ![Storyboard1](Storyboard1.png)
+Streaming Usage vs. Cable/Satellite Usage Comparison
 ![Storyboard2](Storyboard2.png)
+Age-Stratification of Platform Usage
 ![Storyboard3](Storyboard3.png)
+Cost of Subscription on Both Platforms
 ![Storyboard4](Storyboard4.png)
+Number of Subscribers to Both Platforms over the Years
 ![Storyboard5](Storyboard5.png)
 
 
