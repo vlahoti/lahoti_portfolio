@@ -16,6 +16,8 @@ My data visualizations will be added in this section!
 
 [Part 2 of Project](/parttwofinalproject.md)
 
+[Part 3 of Project](/partthreefinalproject.md)
+
 Critique by Design Assignment
 
 Original Visualization: https://www.ncdc.noaa.gov/cag/global/time-series/globe/land_ocean/ytd/12/1880-2019
