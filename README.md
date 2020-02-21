@@ -16,7 +16,7 @@ My data visualizations will be added in this section!
 
 [Part 2 of Project](/parttwofinalproject.md)
 
-[Part 3 of Project](/partthreefinalproject.md)
+[Part 3 of Project](/partthreefinalproject.md) 
 
 Critique by Design Assignment
 
