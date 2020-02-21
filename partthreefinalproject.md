@@ -27,16 +27,18 @@ https://carnegiemellon.shorthandstories.com/streaming-vs--cable/satellite/index.
 # References
 
 https://www.cnbc.com/2018/03/29/nearly-60-percent-of-americans-are-streaming-and-most-with-netflix-cnbc-survey.html
+
 https://www.pewresearch.org/fact-tank/2017/09/13/about-6-in-10-young-adults-in-u-s-primarily-use-online-streaming-to-watch-tv/ft_17-09-13_streaming-1/
+
 https://www.statista.com/statistics/250934/quarterly-number-of-netflix-streaming-subscribers-worldwide/
+
 https://www.statista.com/statistics/497299/dish-network-number-subscribers-usa/
+
 https://www.internetworldstats.com/emarketing.htm
+
 https://www.bankrate.com/personal-finance/smart-money/cost-of-cable-tv-vs-internet-streaming/
+
 https://www.techspot.com/news/69060-23-people-now-prefer-watching-tv-shows-televisions.html
-https://www.theverge.com/2016/6/20/11979948/netflix-new-icon-logo
-https://cdn.vox-cdn.com/thumbor/Yq1Vd39jCBGpTUKHUhEx5FfxvmM=/39x0:3111x2048/1200x800/filters:focal(39x0:3111x2048)/cdn.vox-cdn.com/uploads/chorus_image/image/49901753/netflixlogo.0.0.png
-https://seeklogo.net/wp-content/uploads/2019/01/dish-network-logo.png
-https://getdrawings.com/vectors/internet-logo-vector-28.png
 
 
 
