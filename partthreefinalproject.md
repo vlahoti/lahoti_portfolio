@@ -21,6 +21,9 @@ My first phase of the process involved four visualizations: three background-rel
 
 Additionally, decided to add stronger “call-to-action” to my story. Therefore, I added a factor—a visualization describing the number of people who watch entertainment content on their TV vs. those who watch on other devices (e.g. cell phones, tablets, etc.). Consequently, my final story comprised of six visualizations: four which were background-related (a general overview, age-stratification analysis, a Netflix vs. Dish TV subscriber count analysis over time, and a visualization of Internet users worldwide over time) and two of which were factor-related (a price comparison of streaming platforms vs. live TV platforms and comparison of those who watch entertainment on their TV vs. those who watch on other devices). In the process, I changed many of the visualizations, such as modifying a pie-chart to bar chart, or a grouped bar-chart to a line graph with two sets of data. In the end, I believe my data story effectively describes how over time, content viewership has moved more towards streaming platforms and can help an individual on the fence about switching from cable/satellite to a streaming platform.
 
+# Link to Final Data Story;
+https://carnegiemellon.shorthandstories.com/streaming-vs--cable/satellite/index.html
+
 # References
 
 https://www.cnbc.com/2018/03/29/nearly-60-percent-of-americans-are-streaming-and-most-with-netflix-cnbc-survey.html
