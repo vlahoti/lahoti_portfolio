@@ -10,6 +10,8 @@ I have always been intrigued in demonstrating trends and patterns utilizing larg
 # Portfolio
 My data visualizations will be added in this section!
 
+[Critique By Design Assignment](/critiquebydesignassignment.md)
+
 [DataViz](/dataviz2.md)
 
 [Final Project](/final_project_VedantLahoti.md)
