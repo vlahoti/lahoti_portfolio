@@ -8,7 +8,6 @@ Hello! I am currently a Master of Information Systems Student at Carnegie Mellon
 I have always been intrigued in demonstrating trends and patterns utilizing large sets of data. However, doing this in an aesthetic, efficient manner has been difficult for me. To elaborate, I tend to either add to much to my visualizations or too little. I want to be able to support my ideas and thoughts with meaningful, concise graphic visuals to paint a useful picture for my audience! Furthermore, I plan to go into the field of consulting, in which describing data through charts, graphs, and other graphics plays a key role in helping clients solve problems. This class will provide me a toolbox to leverage when creating these presentation visualizations. Lastly, although I have never worked with Tableu in the past, I know how useful of a software it is! Therefore, I am very much looking forward to delving into that tool and becoming better at Telling Stories with Data!
 
 # Portfolio
-My data visualizations will be added in this section!
 
 [Critique By Design Assignment](/critiquebydesignassignment.md)
 
